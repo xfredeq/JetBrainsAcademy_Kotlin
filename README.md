@@ -1,1 +1,1 @@
-# JetBrainsAcademy_Kotlin
+# JetBrains Academy - Kotlin Projects
