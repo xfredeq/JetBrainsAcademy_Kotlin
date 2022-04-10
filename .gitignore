@@ -24,3 +24,8 @@ hs_err_pid*
 
 # IntelliJ config
 .idea
+*.iml
+
+# out and build
+out
+build
